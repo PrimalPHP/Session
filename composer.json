@@ -1,5 +1,5 @@
 {
-	"name": "Primal/Session",
+	"name": "primal/session",
 	"description": "An abstract wrapper class for dedicating a portion of the session as an object's state save",
 	"homepage": "http://github.com/PrimalPHP/Session",
 	"license": "MIT",
@@ -19,5 +19,10 @@
         "psr-0": {
             "Primal\\Session": "lib\/"
         }
-    }
+    },
+	"extra": {
+		"branch-alias": {
+			"dev-master": "1.0"
+		}
+	}
 }
