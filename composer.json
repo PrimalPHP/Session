@@ -1,7 +1,7 @@
 {
 	"name": "Primal/Session",
 	"description": "An abstract wrapper class for dedicating a portion of the session as an object's state save",
-	"homepage": "http://github.com/Primal/Session",
+	"homepage": "http://github.com/PrimalPHP/Session",
 	"license": "MIT",
 	"keywords": ["sessions", "notifications"],
 	"authors": [
